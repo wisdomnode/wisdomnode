@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wisdomnode
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on research and onchain analysis
+- 📫 https://twitter.com/wisdomnode | https://medium.com/@wisdomnode 
